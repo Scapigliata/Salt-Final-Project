@@ -85,10 +85,10 @@ Built With:
 * Mongoose - MongoDB schema
 
 ## Authors
-* Anel Mesic
-* Christian Aman Johansson
-* Paulina Ludwig Torreblanca
-* Otkur Ötkur
+* [Anel Mesic](https://github.com/AMMesic)
+* [Christian Aman Johansson](https://github.com/Christian-Aman)
+* [Paulina Ludwig Torreblanca](https://github.com/Scapigliata)
+* [Otkur Ötkur](https://github.com/OtkurO)
 
 ## Copyright
 All rights reserved School of Applied Technology 
