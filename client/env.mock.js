@@ -1,0 +1,2 @@
+export const LOCAL_IP = 'YOUR_IP_HERE';
+export const GOOGLE_MAPS_API_KEY = 'YOUR_GOOGLE_API_KEY_HERE';
